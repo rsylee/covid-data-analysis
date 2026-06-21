@@ -18,4 +18,4 @@ df['date'] = pd.to_datetime(df['date'], format='%m/%d/%y').dt.date # filter date
 df = df.sort_values('date')
 df.fillna(0, inplace=True)
 df.to_excel('/Users/rachellee/Desktop/projects/covidDataAnalysis/tableau_table4.xlsx', index=False)
-print('done; number of rows:', len(df))
+print('done! number of rows:', len(df))
