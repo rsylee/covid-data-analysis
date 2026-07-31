@@ -1,5 +1,0 @@
-num_beds,sim_days,total_patients,avg_wait_time_days,max_wait_time_days,pct_waited_over_2days,avg_los_days,bed_utilization_pct
-10000,290,613872,64.874,145.29,96.6,7.002,148.2
-20000,290,613872,6.175,20.53,48.9,7.002,74.1
-30000,290,613872,0.001,0.212,0.0,7.002,49.4
-40000,290,613872,0.0,0.0,0.0,7.002,37.1
